@@ -10,22 +10,6 @@
 <h3 align="center">I'm a passionate Software Engineer based in NYC.</h3>
 <h4 align="center"> Glad to see you here! &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=ArturMC.ArturMC"> </h4>
 
-<!--- About Me Section --->
-## 🙋‍♂️ About Me:
-
-- 🔭 I’m currently working on a **[Spotify Clone](https://mintytunes.xyz/)**
-
-- 🌱 I’m currently learning **Web Development!**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://arturchojecki.com)**
-
-- 📫 How to reach me **amchojecki@gmail.com**
-
-- ⚡ Fun fact **I'm an adrenaline junkie.**
-<br>
-
 <!--- Languages and Tools Section --->
 ## 🚀 Languages and Tools:
 
