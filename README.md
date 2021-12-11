@@ -1,9 +1,9 @@
-<!--- Insert Banner Image Later
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
---->
+[![Header](https://lh3.googleusercontent.com/qlcVva8OJIBcgRBLOSiKwd6WJl9Ga9t_7yVyYhMZMdsiFit89CSZAJeRI8by0nncclMuBRGgSsQuCh2fTK1a5IkRjN06gOFvbQyTF2moY0k4oM19D7BgN8lwPJZt-Pq6QLR15dbDltkVwLrElFTI7ArBdDY32EMwRPw_hfI-aNOdOYZqaWCQzjoO9igTXuxSBK3l4jR_1QaY5Ya5JhxmRlfOY9z6CiG-y8VZFjqEe3gF2wawwG7tDrMTS0a__vB0W5O4c-Y8nThDcE7-B2Vhw3tZPXcvxal3PybDnNQ0zF7D5m81VdCmmHSqXmyrSAfIs9ej5ot5DA41aHN0S41jw1JVUFKOR77n06xq0k2PEzVQBlpKko4XwWhxIH16QC24c2585N6bXIk9nzc_29lkk7FoK7mDzoEQxlOuwcnTIkvSymCRE_9o1e61AR1s7XS54CVxjouTz6eDmYqPnvHU4pgo9SvBrfxn5sYuBuEsvsF49R5dcywo0YImoxDNbpIljzEY5AxxI-AcmbQmxA7gBNMWMbRPfuv0zomwDOZlNpGuZwNXQBATkw-7noXBJaBTdWAfkzphouJPFggqjvoxRuf4OAZN2VteY7CEodB2vDCHhouAfE8nqbDa5Vaey0Pb-v_5CvPJsl2pBcHv42qlvkBzsegsat5A-VMRsNcQ82d2mL_0sSI87cQ4okLFZ-33vf5kl8n-o633-RgYGmlU-q0E=w1500-h450-no?authuser=0 "Header")](https://www.arturchojecki.com)
 
 <!--- Image Above the Header  --->
+<!---
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+--->
 
 <!--- Header Area --->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Artur</h1>
